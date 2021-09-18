@@ -9,8 +9,8 @@
     ],
 
     "Filmes": [
-      { "id": 1, "titulo": "Homem de Ferro 1"},
-      { "id": 2, "titulo": "Star Wars Império Contra Ataca"},
-      { "id": 3, "titulo": "The Batman"}
+      { "idFilm": 1, "titulo": "Homem de Ferro 1"},
+      { "idFilm": 2, "titulo": "Star Wars Império Contra Ataca"},
+      { "idFilm": 3, "titulo": "The Batman"}
     ]
 }

@@ -6,5 +6,11 @@
       { "id": 4, "titulo": "A Máquina do Tempo", "autor": "H. G. Wells" },
       { "id": 5, "titulo": "Pinóquio no País dos Paradoxos: Uma viagem pelos grandes problemas da lógica", "autor": "Alessio Palmero Aprosio" },
       { "id": 6, "titulo": "Guerra Civil: Uma História Do Universo Marvel", "autor": "Stuart Moore, Michele Gerhardt MacCulloch, e outros." }
+    ],
+
+    "Filmes": [
+      { "id": 1, "titulo": "Homem de Ferro 1"},
+      { "id": 2, "titulo": "Star Wars Império Contra Ataca"},
+      { "id": 3, "titulo": "The Batman"}
     ]
-  }
+}
